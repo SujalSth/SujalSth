@@ -29,10 +29,6 @@ I am passionate about combining **logic, clean code, and modern UI design** to c
 - MySQL
 - Basic Node.js (learning)
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-
 ### 🎨 Creative Skills
 - Graphic Design: Photoshop, Illustrator  
 - Video Editing: DaVinci Resolve  
@@ -49,6 +45,7 @@ To grow as a **full-stack developer**, build real-world applications, and gain i
 
 - 📧 Email: sujalshrestha2061@gmail.com  
 
+⭐ *Feel free to explore my repositories and projects.*
 <!--
 **SujalSth/SujalSth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
